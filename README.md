@@ -1,3 +1,30 @@
+## Project Screenshots
+
+1. Azure App Service
+
+Shows the deployed web application running on Azure.
+
+<img width="1920" height="1080" alt="web app" src="https://github.com/user-attachments/assets/9a6a7d42-07ff-4e48-b15b-079438976106" />
+
+2. Application Health Check
+
+Shows the /health endpoint returning a healthy status.
+
+<img width="1920" height="1080" alt="health endpoints" src="https://github.com/user-attachments/assets/bb106b2e-bdfe-4aa8-925a-356685423f3d" />
+
+3. Azure Monitor Metrics
+
+Shows request counts and HTTP error metrics.
+
+<img width="1920" height="1080" alt="http server errors ss" src="https://github.com/user-attachments/assets/4e369980-bfb2-46f0-8576-7df3392a5ddc" />
+
+4.  HTTP 5xx Alert Rule
+
+Shows the configured Azure Monitor alert rule.
+
+<img width="1920" height="1080" alt="http-5xx-alert-rule" src="https://github.com/user-attachments/assets/767d4980-6fec-4c6d-b927-e1b84d33c955" />
+
+
 # Azure App Service Monitoring & Alerting
 
 ## Project Overview
